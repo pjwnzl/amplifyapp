@@ -1,0 +1,2 @@
+# amplifyapp
+test deploying server
